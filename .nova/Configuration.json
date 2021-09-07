@@ -1,3 +1,7 @@
 {
-
+  "apexskier.eslint.config.fixOnSave" : "Enable",
+  "editor.default_syntax" : "html",
+  "index.enabled" : true,
+  "workspace.color" : 0,
+  "workspace.name" : "pd-TP03"
 }
